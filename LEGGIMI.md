@@ -1,6 +1,6 @@
 # Qomp / NQL — prototipo di presentazione BOZZA 09/11/2026 · v2
 
-Versione corretta dopo audit, allineata al dossier prodotto v1.0 e alle decisioni Alberto del 09/11/2026.
+Versione corretta dopo audit, allineata al dossier prodotto v1.0 e alle decisioni del 09/11/2026.
 La cartella `sito-presentazione-Qomp-NQL_BOZZA_2026-11-09/` resta la bozza precedente non modificata.
 
 - Header: solo marchio Q (simbolo brand kit), senza scritta «Qomp».
